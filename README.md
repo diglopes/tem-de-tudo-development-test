@@ -47,6 +47,7 @@ Celeste lhe dá total liberdade para que seja criativo e incremente novas funcio
 ## Comentários:
 - Use a tecnologia que mais se sentir confortável
 - Foque na qualidade e funcionamento das features principas. Garantir um sistema funcional pesa mais do que um sistema totalmente inovador com detalhes que não funcionam.
+- Faça uma boa documentação dos endpoints disponibilizados
 
 ## Entregas:
 
@@ -55,17 +56,11 @@ Celeste lhe dá total liberdade para que seja criativo e incremente novas funcio
 Exemplo:
 
 - Criar listagem de produtos com filtro de status
-
-- - FRONT - Criar flag de status e consultar endpoint de produtos. - 30 minutos
-
-- - BACK - Criar API para consultar produtos com diferenciação de status. - 30 minutos
-
-É necessário que o frontend funcione um projeto separado do backend.
+  - BACK - Criar API para consultar produtos com diferenciação de status. - 30 minutos
+  - DOC - Documentar API de consultas de produtos com diferenciação de status - 10 minutos
 
 É necessário você desenvolver a ferramenta através das tarefas definidas por você (sem restrições de tecnologias, uma sugestão é criar branches e commits relacionados).
 
-Para subir a aplicação (sem CI/CD) utilize a documentação oficial Cloud Foundry do IBM Cloud https://cloud.ibm.com/docs/cloud-foundry-public?topic=cloud-foundry-public-deployingapps
-
-É necessário você subir aplicação no IBM Cloud e disponibilizar um link público (não se esqueçam de mostrar seu conhecimento com devops por exemplo utilizando CD e CI. Sugestão: [Tutorial de integração Bluemix CloudFoundry com Travis](https://docs.travis-ci.com/user/deployment/bluemixcloudfoundry) 
+É necessário você subir a aplicação em algum ambiente CLOUD e disponibilizar um link público para os testes (não se esqueçam de mostrar seu conhecimento com devops, por exemplo utilizando CD e CI), assim como já ter disponibilizada as configurações parar criar uma imagem docker da aplicação.
 
 É necessário utilizar o Github para versionar (procure realizar pequenos commits durante o desenvolvimento) a aplicação e criar um README.md com descrição da ferramenta e processo de instalação. Disponibilizar repositório para análise.

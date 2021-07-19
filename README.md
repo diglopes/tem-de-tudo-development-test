@@ -38,16 +38,17 @@ Através dessas planilhas Celeste extraí os seguintes dados:
 - Melhores vendedores (é o vendedor que vendeu o maior valor)
 - Melhores clientes (é o cliente que comprou o maior valor)
 
-Lembrando que isso deve ser dinâmico, ou seja, os valores devem ser inseridos e os cálculos atualizados (use um banco de dados de sua preferência).
+Lembrando que isso deve ser dinâmico, ou seja, os valores devem ser inseridos e os cálculos atualizados.
 
 ## Importante:
 
 Celeste lhe dá total liberdade para que seja criativo e incremente novas funcionalidades além daquelas que ela já possui com as planilhas, seja criativo e se sinta livre para mostrar suas habilidades como desenvolvedor, mas não esqueça de fazer o essencial.
 
 ## Comentários:
-- Use a tecnologia que mais se sentir confortável
+- Crie a sua API utilizando Node.js e um banco de dados relacional
+- Fique a vontade para utilizar outras tecnologias que achar pertinente
 - Foque na qualidade e funcionamento das features principas. Garantir um sistema funcional pesa mais do que um sistema totalmente inovador com detalhes que não funcionam.
-- Faça uma boa documentação dos endpoints disponibilizados
+- Faça uma boa documentação dos endpoints disponibilizados e da própria aplicação
 
 ## Entregas:
 
@@ -59,8 +60,8 @@ Exemplo:
   - BACK - Criar API para consultar produtos com diferenciação de status. - 30 minutos
   - DOC - Documentar API de consultas de produtos com diferenciação de status - 10 minutos
 
-É necessário você desenvolver a ferramenta através das tarefas definidas por você (sem restrições de tecnologias, uma sugestão é criar branches e commits relacionados).
+É necessário você desenvolver a ferramenta através das tarefas definidas por você (uma sugestão é criar branches e commits relacionados).
 
-É necessário você subir a aplicação em algum ambiente CLOUD e disponibilizar um link público para os testes (não se esqueçam de mostrar seu conhecimento com devops, por exemplo utilizando CD e CI), assim como já ter disponibilizada as configurações parar criar uma imagem docker da aplicação.
+É necessário você subir a aplicação em algum ambiente CLOUD e disponibilizar um link público para os testes (não se esqueça de mostrar seu conhecimento com devops, por exemplo utilizando CD e CI), assim como já ter disponibilizada as configurações parar criar uma imagem docker da aplicação.
 
 É necessário utilizar o Github para versionar (procure realizar pequenos commits durante o desenvolvimento) a aplicação e criar um README.md com descrição da ferramenta e processo de instalação. Disponibilizar repositório para análise.
